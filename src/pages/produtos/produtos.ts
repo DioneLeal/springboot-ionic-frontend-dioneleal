@@ -14,7 +14,6 @@ export class ProdutosPage {
   items : ProdutoDTO[] = [];
   page : number = 0;
 
-
   constructor(
     public navCtrl: NavController, 
     public navParams: NavParams,
